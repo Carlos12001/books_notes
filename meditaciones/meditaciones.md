@@ -8,6 +8,11 @@ realizados de forma digital con el fin luego de leerlos imprimirlos y
 adjuntarlos en la lectura. Aparte de los apuntes se agrega un glosario para
 entender mejor el texto.
 
+Además como estoy 2023 y chatGPT existe se estará utilizando con el fin
+de realizar una lectura más a fondo del tema. Antes poner lo que dice
+el GPT se dirá claramente que eso esta dicho por el. De lo contario son
+ideas mías.
+
 ## Libro I
 
 ### ¿Madres? (2-3)
@@ -19,6 +24,117 @@ Creo que tuvo una madre biológica y otra realmente llama "su madre".
 El bisabuelo de Marco Aurelio decía que era necesario gastar regularmente
 en educación. Eso es lo que se refiere cuando duce _en este particular es 
 menester gastar asiduamente_.
+
+### Verde, Azul, Escutarios o Partidario (5)
+
+Tenía duda acerca de estos terminos por lo que le pregunte a **chatGTP** 
+que decía lo siguiente:
+
+
+```
+En este pasaje, Marco Aurelio está hablando de su preceptor, quien fue 
+una persona influyente en su educación y formación moral. El autor 
+menciona que su preceptor no tomó partido en las competiciones públicas 
+de los equipos de carreras de caballos conocidos como "Verde" y "Azul", 
+ni tampoco fue partidario de los "Parmularios" o de los "Escutarios".
+
+Los "Verdes" y "Azules" eran equipos rivales en las carreras de caballos 
+que se celebraban en el hipódromo de Constantinopla en el siglo VI, y 
+los "Parmularios" y "Escutarios" eran dos grupos de gladiadores que 
+también competían en eventos públicos.
+
+La razón por la que Marco Aurelio menciona esto es para destacar la 
+virtud de su preceptor, quien no se dejó arrastrar por el entusiasmo 
+de las multitudes en eventos públicos y mantuvo una actitud imparcial 
+y equilibrada en su vida. Esto es algo que el autor valora y trata de 
+emular en su propia vida.
+
+En resumen, el pasaje se refiere a la virtud de la imparcialidad y la 
+moderación, y cómo estas cualidades son importantes en la formación 
+de un buen carácter y comportamiento moral.
+
+```
+
+Me gusta cuando dice que hay ser cte. ante la fátiga y escasos cuidados,
+sin llegar a agobiarse de execesivas tareas. Muy sabio el perpector de
+Marco Aurelio.
+
+### Diongenes (6)
+
+Primero tenía duda acerca frivolidades y jaes. **ChatGPT** repondió lo
+siguiente:
+
+```
+En este pasaje, Marco Aurelio menciona varias virtudes que aprendió de
+Diognetes, un filósofo cínico que vivió en la antigua Grecia. El autor
+menciona que Diognetes tenía una aversión hacia las frivolidades, lo
+que significa que no estaba interesado en las cosas superficiales
+o triviales de la vida. En lugar de eso, se centraba en cuestiones
+más profundas y significativas.
+
+Además, Diognetes era incrédulo a lo que los charlatanes decían acerca
+de las hechicerías y otros fenómenos sobrenaturales. Él tenía una 
+mente crítica y escéptica, y no aceptaba las afirmaciones sin pruebas
+sólidas.
+
+"Jaez" es una palabra antigua que se utiliza para referirse a la
+clase o tipo de algo o alguien. En el contexto del pasaje que
+mencionaste anteriormente, Marco Aurelio utiliza la expresión
+"hechicerías de este jaez" para referirse a las prácticas mágicas
+o sobrenaturales de un cierto tipo o clase.
+```
+
+Tenia duda con lo de parejas manias _a no dedicarme a la cria de
+codornices ni efundarme en parejas manías_. **ChatGPT** repondió:
+
+```
+En este pasaje, Marco Aurelio está hablando de la importancia de no
+dedicarse a actividades triviales o superficiales que no tienen un
+propósito más grande. La expresión "no dedicarme a la cría de
+codornices" puede ser una metáfora para referirse a cualquier
+actividad que sea trivial o sin sentido, que no contribuya a
+nuestro desarrollo personal o a la sociedad en general.
+
+La expresión "efundarme en parejas manías" también puede ser una
+referencia a la adicción o el apego a cosas superficiales o sin
+importancia. El autor nos está diciendo que debemos evitar dedicar
+demasiado tiempo o energía a estas cosas triviales, ya que nos distraen
+de las cosas importantes de la vida y pueden impedir nuestro progreso.
+
+En general, este pasaje se refiere a la importancia de enfocarse en
+las cosas que son importantes y significativas en la vida, en lugar
+de distraernos con actividades triviales o sin sentido. Esto es una
+parte importante de la filosofía estoica, que enfatiza la importancia
+de vivir una vida virtuosa y centrada en valores sólidos.
+
+```
+
+Tenía duda acerca que era zumba **ChatGPT** repondió:
+
+```
+En este pasaje, Marco Aurelio está hablando de una virtud importante 
+que debemos practicar en nuestras conversaciones con los demás. La 
+palabra "zumbas" se refiere a los ruidos o sonidos desagradables que
+pueden surgir en una conversación, como las palabras desagradables o
+los tonos elevados de voz.
+
+El autor nos está diciendo que debemos aprender a aguantar estas 
+zumbas y no reaccionar emocionalmente a ellas.
+```
+
+Para lo de codiciado camastro  **ChatGPT** repondió:
+
+```
+Otra virtud que Marco Aurelio destaca de Diognetes es su deseo de 
+vivir una vida sencilla y austera. El autor menciona que Diognetes
+codiciaba un camastro de campaña cubierto de piel simple, lo que 
+indica que no estaba interesado en los lujos o las comodidades materiales.
+En cambio, valoraba más la disciplina y la educación que había recibido
+en la cultura helénica.
+
+```
+
+Lo 
 
 ### Fortuna y los dioses (17)
 
@@ -52,7 +168,14 @@ del imperio; 2. Milicia romana, jefe o cabeza de cada región.
 - asiduo: 1. Frecuente, puntual, perseverante.
 - perceptor: 1. se refiere a un persona tiene la función de eseñar y guiar
 a alguien en una materia.
-- helénico (a): 
+- jaez: es una palabra antigua que se utiliza para referirse a la clase
+o tipo de algo o alguien. En el contexto del pasaje que mencionaste
+anteriormente, Marco Aurelio utiliza la expresión "hechicerías de 
+este jaez" para referirse a las prácticas mágicas o sobrenaturales
+de un cierto tipo o clase.
+- zumbas: 1. se refiere a los ruidos o sonidos desagradables que
+pueden surgir en una conversación.
+- helénico (a): perteneciente a la cultura hélinica.
 - allegarse: 1. Recoger, juntar; 2. Arrimar o acercar; 3. Reunir o
 agrupar; 4. Añadir; 5. Dar o procurar dar algo a alguien; 6. Obtener o
 conseguir; 7. LLegar au
