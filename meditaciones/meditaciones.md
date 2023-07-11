@@ -202,6 +202,15 @@ conseguir;
 
 ## Libro II
 
+### Iniciando el día (1)
+
+Le pregunté a **Chat** que decía la primera parte porque me pareció muy interesante lo que decía y dijo lo siguiente
+
+Marco Aurelio está diciendo que la gente cae en vicios porque no entienden la diferencia entre el bien y el mal. Él ha reconocido que lo que es bueno es bello, y lo que es malo es desagradable. Considera a cada individuo, incluso a aquellos que cometen actos malintencionados, como sus semejantes, compartiendo no sólo su humanidad sino también un fragmento de divinidad, posiblemente refiriéndose a la capacidad de racionalizar que él, como un estoico, cree que todos los humanos tienen. Por eso, no puede ser ofendido o avergonzado por las acciones de otros, ya que sus actos no pueden manchar su propio carácter.
+
+Me parece que lo que dice aquí es que hay que tener tolerancia a las personas que aún no son capaces de ver y analizar el bien y el mal que según los estoicos todo elmundo lo tenemos pero que el actuar de estas personas no tiene que terminar afectando nuestro carácter entonces me parece muy bueno que a pesar de que nosotros que las circunstancias de las otras personas, queda en prioridad   mantenerse y ecuánime a estas situaciones.
+
+
 ### Glosario
 
 - prosapia: 1. f. Ascendencia, linaje o generación de una persona.
