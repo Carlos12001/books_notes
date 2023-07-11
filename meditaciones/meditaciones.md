@@ -210,6 +210,10 @@ Marco Aurelio está diciendo que la gente cae en vicios porque no entienden la d
 
 Me parece que lo que dice aquí es que hay que tener tolerancia a las personas que aún no son capaces de ver y analizar el bien y el mal que según los estoicos todo elmundo lo tenemos pero que el actuar de estas personas no tiene que terminar afectando nuestro carácter entonces me parece muy bueno que a pesar de que nosotros que las circunstancias de las otras personas, queda en prioridad   mantenerse y ecuánime a estas situaciones.
 
+### Qué estamos compuesto (2)
+
+Bueno en este apartado marco Aurelio dice que un ser humano se reduce en carne espíritu y facultad rectora y digamos y me parece increíble que dice que lo primero que luciamos es a la carne pero incluso a los libros o sea que realmente nos olvidemos del mundo material. no se queda mucho solo dice que lo aspiremos de nuevo pero en el tercero Este es el que me parece mejor de todos el de la facultad dice que no no permites que nos esclavice que se agite como título movido por hilos a Merced de instintos egoístas incluso que tema al futuro que si viste contra el destino presente o sea quiere decir que sobrepensar las cosas tampoco y la facultad máxima o sea nosotros somos una mezcla de estos tres pero no dice que uno es más importante que otro sino que habla de que el exceso de uno de cualquiera de estas tres es perjudicial y critica esto.
+
 
 ### Glosario
 
