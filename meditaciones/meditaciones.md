@@ -220,4 +220,3 @@ Bueno en este apartado marco Aurelio dice que un ser humano se reduce en carne e
 - prosapia: 1. f. Ascendencia, linaje o generación de una persona.
 - lícito: 1. adj. Justo, permitido, según justicia y razón. 2. adj. Que
 es de la ley o calidad debida.
-
